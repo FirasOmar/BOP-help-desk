@@ -1,0 +1,176 @@
+﻿.ms-breadcrumb-top{
+	border-bottom: solid 1px gray;
+    padding: 5px;
+    background-color: #f0acd5;
+   /* border-radius: 7px;*/
+	}
+.ms-core-listMenu-horizontalBox UL.root > LI > ul > li :hover	
+{
+	color:#fff;
+	text-size:200;
+}
+.ms-core-listMenu-horizontalBox UL.root > LI > ul > li.selected	>.menu-item-text
+{	background-color:#000;
+	color:#fff;
+	text-decoration:underline;
+}	
+.menu-item-text{
+	font-weight:bold;
+	color:#000;
+}
+.menu-item-text :hover{
+	background-color:rgb(230, 113, 184);
+}
+#siteIcon{
+	/*border-bottom: solid 1px;
+    border-top: solid 1PX;*/
+	margin-right:16px!important;
+	height : 245px !important;
+}
+#titleAreaBox{
+	height: 248px;
+	margin-left: 32px;
+	/*margin:0px;*/
+	padding-left:5px;
+	border-top: solid 1px gray;
+    border-left: solid 1px gray;
+	border-bottom: solid 1.5px gray;
+	border-top: solid 1px gray
+	border-left:solid 1px gray;
+}
+#SearchBox{
+	margin:0px;
+	background-color:#fff;
+	width:260px;
+/* border-radius: 7px;*/
+	
+}
+.ms-rtestate-field{
+padding-right:0px!important;	
+}
+.ms-mpSearchBox{
+	width:0px;
+	
+}	
+.ms-srch-sb{
+	padding:3px!important;
+	display:block;
+	/*border-radius: 7px;*/
+		
+}
+#pageTitle{
+	    text-align:center;
+}
+
+#s4-titlerow{
+	padding-top:0px;
+	height:240px;
+	/*border-bottom: solid 1.5px gray;*/
+}
+#s4-bodyContainer{
+	background-color: #f2f2f2;
+}
+#DeltaPlaceHolderPageTitleInTitleArea{
+	visibility:hidden;
+	line-height:2.5;
+	font-weight:bold;
+}
+#DeltaPlaceHolderPageTitleInTitleArea >span> span > a {
+	color:#fff;
+}
+.ms-breadcrumb-box{
+
+}
+#pageTitle {
+	color:#fff;
+	background-color:#e671b8;
+	/*border-radius:8px;*/
+	height:216px;
+	background-image:url("https://steadypoint.sharepoint.com/sites/Training/SiteAssets/Banner2.png");
+	background-repeat: no-repeat;
+}
+.ms-webpart-chrome-title{
+	background-color:rgba(255, 162, 216, 0.85);
+	/*border-radius:2px;*/
+	    border-bottom: solid 1.5px
+}
+.s4-ribbonrow{
+	height:0px!important;
+	display:none!important;
+}
+#RibbonContainer-TabRowRight{
+	display:none!important;
+}
+.ms-rte-wpbox{
+	background-color:#fdfdfd;
+	border : solid 1.5px gray;
+	/*border-radius:4px;*/
+	/*box-shadow:10px 10px 5px #888888;*/
+	margin:10px;
+	    float: right;
+    width: 635px;
+    height: 620px;
+}
+.ms-webpart-titleText{
+	margin-left:4px;
+}
+.ms-rte-layoutszone-inner{
+	padding:0px;
+}
+#contentBox{
+	margin-left:10px;
+	margin-right:10px;
+}
+#siteIcon #titleAreaBox #titleAreaRow{
+	height:125px;
+}
+#sideNavBox{
+	display:none;
+}
+#siteIcon{
+	   /* margin-right: 50px;
+		margin-top: 45px*/
+}
+.ms-siteicon-img{
+	/*margin-left: 15px;
+	height:120px;
+	width:120px;
+	max-height:120px!important;
+	max-width:125px!important;*/
+	    height: 245px;
+    width: 199px;
+    max-height: 240px!important;
+    max-width: 190px!important;
+}
+.ms-core-listMenu-verticalBox UL.root > LI > .menu-item{  
+  font-weight:bold;  
+  background-color:rgb(230, 113, 184);  
+  color:#ffffff;  
+  border-bottom-color:#ffffff;  
+  border-bottom-style:solid;  
+  border-bottom-width:1px;  
+  min-height:25px;  
+  padding-top:5px;  
+  padding-left:10px;  
+  font-size:12px;  
+  font-family:Arial, Helvetica, Sans-Serif !important;  
+ }  
+ .ms-core-listMenu-verticalBox UL.root > LI > .menu-item:hover{
+	 background-color:#ffbbe5;
+ }
+ .ms-core-listMenu-verticalBox UL.root > LI.selected > .menu-item{
+	 background-color:#ffbbe5;
+ }
+.ms-core-listMenu-verticalBox > ul.root > li.static > ul.static > li > a{
+	 background-color:rgb(230, 113, 184);
+	 color:#ffffff;
+	 
+ }
+ .ms-core-listMenu-verticalBox > ul.root > li.static > ul.static > li> a:hover {  
+   color: #ffffff;  
+   background-color:#ffbbe5;  
+   text-decoration:none;  
+ }  
+.ms-core-listMenu-verticalBox > ul.root > li.static > ul.static > li.selected > a{
+	background-color:#ffbbe5;
+}
